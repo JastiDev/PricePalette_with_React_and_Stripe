@@ -49,8 +49,7 @@ Edit the fields associated with the template such as title, description, price d
 
 ## Team
 
-- [Samreetha Williams](https://github.com/samreethawilliams)
+- [Sujanesh Jasti](https://github.com/JastiDev)
 - [Sahibjeet Singh](https://github.com/sahibjeetsingh99)
-- [Pratik Sanjay Choudhari](https://github.com/pratik-choudhari)
 - [Luqmaan Shaik](https://github.com/ShaikLuqmaan)
 - [Joel Mathew Koshy](https://github.com/Rec0iL99)
